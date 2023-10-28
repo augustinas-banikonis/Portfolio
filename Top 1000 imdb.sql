@@ -1,6 +1,3 @@
-SELECT *
-FROM imdb_clean;
-
 -- The top-rated movies.
 SELECT title AS 'Title'
 , release_year 'Release year'
